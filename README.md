@@ -1,22 +1,41 @@
-![image](https://github.com/user-attachments/assets/6cfe50c7-49a6-4811-b9b5-2ea0cc0f8082)
-### Fonte [Kaggle](https://www.kaggle.com/datasets) 🔗
+Aqui está uma versão aprimorada do seu README:
 
-##### Projeto: Amazon Top 50 Bestselling Books 2009 - 2019
-##### Objetivo: Análise exploratória de dados.
-##### Fonte do conjunto: [Amazon Top 50 Bestselling Book](https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019/data)
+---
 
-##### Objetivo: Responder as questões abaixo
+# Amazon Top 50 Bestselling Books 2009 - 2019 📚
 
-- [x] Qual gênero tem mais livros nesta categoria?
-- [x] Qual é a classificação média de cada gênero?
-- [x] Qual é a popularidade de cada gênero e sua relação com o tempo?
-- [ ] Em que ano houve mais livros vendidos nesta categoria?
-- [ ] Que efeito o tempo teve no preço dos livros ao longo dos anos?
-- [ ] Preço dos livros de cada gênero ao longo dos anos.
-- [ ] Como têm sido as avaliações dos clientes ao longo dos anos?
-- [ ] Quais gêneros têm as classificações mais altas e mais baixas?
-- [ ] Qual autor é mais popular e quais ganharam mais nesta categoria?
-- [ ] Quem é o autor mais popular de cada gênero?
-- [ ] Quais livros ganharam mais dinheiro em cada gênero?
-- [ ] O dinheiro que gera livros em geral.
-- [ ] Qual é a relação da venda com as classificações?
+### Fonte: [Kaggle](https://www.kaggle.com/datasets) 🔗
+
+### Descrição do Projeto
+Este projeto realiza uma análise exploratória dos dados dos 50 livros mais vendidos na Amazon entre 2009 e 2019. A análise tem como foco identificar tendências, padrões e insights significativos relacionados aos gêneros literários, preços, avaliações e vendas ao longo dos anos.
+
+### Fonte do Conjunto de Dados
+O conjunto de dados utilizado pode ser encontrado em: [Amazon Top 50 Bestselling Books](https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019/data)
+
+### Objetivos da Análise 📊
+A análise busca responder as seguintes perguntas:
+
+- [x] Qual gênero literário domina a lista dos mais vendidos?
+- [x] Qual é a classificação média dos livros por gênero?
+- [x] Como a popularidade de cada gênero evoluiu ao longo do tempo?
+- [ ] Em que ano foram vendidos mais livros nesta categoria?
+- [ ] Qual foi o impacto do tempo no preço dos livros ao longo dos anos?
+- [ ] Qual foi a evolução dos preços dos livros de cada gênero ao longo dos anos?
+- [ ] Como as avaliações dos clientes variaram ao longo dos anos?
+- [ ] Quais gêneros apresentam as classificações mais altas e mais baixas?
+- [ ] Quem são os autores mais populares e quais geraram mais receitas?
+- [ ] Quem é o autor mais popular em cada gênero?
+- [ ] Quais livros geraram mais receita em cada gênero?
+- [ ] Qual a relação entre vendas e classificações?
+
+### Bibliotecas Utilizadas 📚
+- Pandas
+- Seaborn
+- Matplotlib
+- Numpy
+
+### Objetivos de Aprendizado 🎯
+- Aperfeiçoar o uso das bibliotecas de visualização de dados Seaborn e Matplotlib.
+- Praticar o fluxo de análise exploratória de dados.
+- Demonstrar que, mesmo com um conjunto de dados limitado, é possível extrair insights valiosos.
+
