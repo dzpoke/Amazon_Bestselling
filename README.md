@@ -7,16 +7,16 @@
 
 ##### Objetivo: Responder as questões abaixo
 
-- Qual gênero tem mais livros nesta categoria?
-- Qual é a classificação média de cada gênero?
-- Qual é a popularidade de cada gênero e sua relação com o tempo?
-- Em que ano houve mais livros vendidos nesta categoria?
-- Que efeito o tempo teve no preço dos livros ao longo dos anos?
-- Preço dos livros de cada gênero ao longo dos anos.
-- Como têm sido as avaliações dos clientes ao longo dos anos?
-- Quais gêneros têm as classificações mais altas e mais baixas?
-- Qual autor é mais popular e quais ganharam mais nesta categoria?
-- Quem é o autor mais popular de cada gênero?
-- Quais livros ganharam mais dinheiro em cada gênero?
-- O dinheiro que gera livros em geral.
-- Qual é a relação da venda com as classificações?
+- [x] Qual gênero tem mais livros nesta categoria?
+- [x] Qual é a classificação média de cada gênero?
+- [x] Qual é a popularidade de cada gênero e sua relação com o tempo?
+- [ ] Em que ano houve mais livros vendidos nesta categoria?
+- [ ] Que efeito o tempo teve no preço dos livros ao longo dos anos?
+- [ ] Preço dos livros de cada gênero ao longo dos anos.
+- [ ] Como têm sido as avaliações dos clientes ao longo dos anos?
+- [ ] Quais gêneros têm as classificações mais altas e mais baixas?
+- [ ] Qual autor é mais popular e quais ganharam mais nesta categoria?
+- [ ] Quem é o autor mais popular de cada gênero?
+- [ ] Quais livros ganharam mais dinheiro em cada gênero?
+- [ ] O dinheiro que gera livros em geral.
+- [ ] Qual é a relação da venda com as classificações?
