@@ -19,8 +19,8 @@ A análise busca responder as seguintes perguntas:
 
 - [x] Qual gênero literário domina a lista dos mais vendidos?
 - [x] Qual é a classificação média dos livros por gênero?
-- [x] Como a popularidade de cada gênero evoluiu ao longo do tempo?
-- [ ] Em que ano foram vendidos mais livros nesta categoria?
+- [] Como a popularidade de cada gênero evoluiu ao longo do tempo?
+- [x] Em que ano foram vendidos mais livros nesta categoria?
 - [ ] Qual foi o impacto do tempo no preço dos livros ao longo dos anos?
 - [ ] Qual foi a evolução dos preços dos livros de cada gênero ao longo dos anos?
 - [ ] Como as avaliações dos clientes variaram ao longo dos anos?
