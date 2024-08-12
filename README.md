@@ -47,10 +47,10 @@ A análise busca responder as seguintes perguntas:
 A segunda parte deste projeto será desenvolvida no Power BI, com o objetivo de apresentar as questões abordadas na Parte 1 de maneira mais clara e visualmente atraente.
 
 ### Objetivos de Aprendizado 🎯
-- Aplicar técnicas de Storytelling com base no livro *Storytelling with Data* da Cole Nussbaumer.
+- Aplicar técnicas de Storytelling com base no livro *Storytelling com dados* da Cole Nussbaumer.
 - Praticar o uso da linguagem DAX no Power BI.
 
-##### Criação de Informações Complementares com DAX
+##### Criação de informações complementares com DAX
 - [ ] Faixa de avaliação dos usuários.
 - [ ] Faixa de preço dos livros.
 - [ ] Valor bruto gerado por livro (reviews x preço).
