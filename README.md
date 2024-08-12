@@ -1,4 +1,4 @@
-Aqui está uma versão aprimorada do seu README:
+Aqui está a versão aprimorada do seu README:
 
 ---
 
@@ -7,10 +7,12 @@ Aqui está uma versão aprimorada do seu README:
 ### Fonte: [Kaggle](https://www.kaggle.com/datasets) 🔗
 
 ### Descrição do Projeto
-Este projeto realiza uma análise exploratória dos dados dos 50 livros mais vendidos na Amazon entre 2009 e 2019. A análise tem como foco identificar tendências, padrões e insights significativos relacionados aos gêneros literários, preços, avaliações e vendas ao longo dos anos.
+Este projeto realiza uma análise exploratória dos dados dos 50 livros mais vendidos na Amazon entre 2009 e 2019. A análise tem como objetivo identificar tendências, padrões e insights significativos relacionados aos gêneros literários, preços, avaliações e vendas ao longo dos anos.
 
 ### Fonte do Conjunto de Dados
 O conjunto de dados utilizado pode ser encontrado em: [Amazon Top 50 Bestselling Books](https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019/data)
+
+## PARTE 1
 
 ### Objetivos da Análise 📊
 A análise busca responder as seguintes perguntas:
@@ -39,3 +41,18 @@ A análise busca responder as seguintes perguntas:
 - Praticar o fluxo de análise exploratória de dados.
 - Demonstrar que, mesmo com um conjunto de dados limitado, é possível extrair insights valiosos.
 
+## PARTE 2
+
+### Descrição da Parte 2
+A segunda parte deste projeto será desenvolvida no Power BI, com o objetivo de apresentar as questões abordadas na Parte 1 de maneira mais clara e visualmente atraente.
+
+### Objetivos de Aprendizado 🎯
+- Aplicar técnicas de Storytelling com base no livro *Storytelling with Data* da Cole Nussbaumer.
+- Praticar o uso da linguagem DAX no Power BI.
+
+##### Criação de Informações Complementares com DAX
+- [ ] Faixa de avaliação dos usuários.
+- [ ] Faixa de preço dos livros.
+- [ ] Valor bruto gerado por livro (reviews x preço).
+
+---
