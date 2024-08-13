@@ -1,5 +1,3 @@
-Aqui está a versão aprimorada do seu README:
-
 ---
 
 # Amazon Top 50 Bestselling Books 2009 - 2019 📚
